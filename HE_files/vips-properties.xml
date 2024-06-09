@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2024-06-09T20:17:48.863587+03" version="8.14.2">
+  <properties>
+    <property>
+      <name>width</name>
+      <value type="gint">38555</value>
+    </property>
+    <property>
+      <name>height</name>
+      <value type="gint">39232</value>
+    </property>
+    <property>
+      <name>bands</name>
+      <value type="gint">4</value>
+    </property>
+    <property>
+      <name>xoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>yoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>xres</name>
+      <value type="gdouble">2269.6323195642308</value>
+    </property>
+    <property>
+      <name>yres</name>
+      <value type="gdouble">2269.6323195642308</value>
+    </property>
+    <property>
+      <name>vips-loader</name>
+      <value type="VipsRefString">openslideload</value>
+    </property>
+    <property>
+      <name>slide-level</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>aperio.AppMag</name>
+      <value type="VipsRefString">20</value>
+    </property>
+    <property>
+      <name>aperio.DisplayColor</name>
+      <value type="VipsRefString">0</value>
+    </property>
+    <property>
+      <name>aperio.MPP</name>
+      <value type="VipsRefString">0.4406</value>
+    </property>
+    <property>
+      <name>aperio.OriginalHeight</name>
+      <value type="VipsRefString">48384</value>
+    </property>
+    <property>
+      <name>aperio.OriginalWidth</name>
+      <value type="VipsRefString">100352</value>
+    </property>
+    <property>
+      <name>openslide.comment</name>
+      <value type="VipsRefString">Aperio Image Library v12.4.7 
+100352x48384 [59344,6598 38555x39232] (256x256) JPEG/RGB Q=30;NanoZoomer Digital Pathology Image|AppMag = 20|MPP = 0.4406|DisplayColor =0|OriginalWidth = 100352|OriginalHeight = 48384</value>
+    </property>
+    <property>
+      <name>openslide.level-count</name>
+      <value type="VipsRefString">3</value>
+    </property>
+    <property>
+      <name>openslide.level[0].downsample</name>
+      <value type="VipsRefString">1</value>
+    </property>
+    <property>
+      <name>openslide.level[0].height</name>
+      <value type="VipsRefString">39232</value>
+    </property>
+    <property>
+      <name>openslide.level[0].tile-height</name>
+      <value type="VipsRefString">256</value>
+    </property>
+    <property>
+      <name>openslide.level[0].tile-width</name>
+      <value type="VipsRefString">256</value>
+    </property>
+    <property>
+      <name>openslide.level[0].width</name>
+      <value type="VipsRefString">38555</value>
+    </property>
+    <property>
+      <name>openslide.level[1].downsample</name>
+      <value type="VipsRefString">4.0001556339489515</value>
+    </property>
+    <property>
+      <name>openslide.level[1].height</name>
+      <value type="VipsRefString">9808</value>
+    </property>
+    <property>
+      <name>openslide.level[1].tile-height</name>
+      <value type="VipsRefString">256</value>
+    </property>
+    <property>
+      <name>openslide.level[1].tile-width</name>
+      <value type="VipsRefString">256</value>
+    </property>
+    <property>
+      <name>openslide.level[1].width</name>
+      <value type="VipsRefString">9638</value>
+    </property>
+    <property>
+      <name>openslide.level[2].downsample</name>
+      <value type="VipsRefString">16.002283105022833</value>
+    </property>
+    <property>
+      <name>openslide.level[2].height</name>
+      <value type="VipsRefString">2452</value>
+    </property>
+    <property>
+      <name>openslide.level[2].tile-height</name>
+      <value type="VipsRefString">256</value>
+    </property>
+    <property>
+      <name>openslide.level[2].tile-width</name>
+      <value type="VipsRefString">256</value>
+    </property>
+    <property>
+      <name>openslide.level[2].width</name>
+      <value type="VipsRefString">2409</value>
+    </property>
+    <property>
+      <name>openslide.mpp-x</name>
+      <value type="VipsRefString">0.44059999999999999</value>
+    </property>
+    <property>
+      <name>openslide.mpp-y</name>
+      <value type="VipsRefString">0.44059999999999999</value>
+    </property>
+    <property>
+      <name>openslide.objective-power</name>
+      <value type="VipsRefString">20</value>
+    </property>
+    <property>
+      <name>openslide.quickhash-1</name>
+      <value type="VipsRefString">eb36e8d352b0a91ca23db971cad144c2ba605b493068da87e1bfb8fe04574f2a</value>
+    </property>
+    <property>
+      <name>openslide.vendor</name>
+      <value type="VipsRefString">aperio</value>
+    </property>
+    <property>
+      <name>tiff.ImageDescription</name>
+      <value type="VipsRefString">Aperio Image Library v12.4.7 
+100352x48384 [59344,6598 38555x39232] (256x256) JPEG/RGB Q=30;NanoZoomer Digital Pathology Image|AppMag = 20|MPP = 0.4406|DisplayColor =0|OriginalWidth = 100352|OriginalHeight = 48384</value>
+    </property>
+    <property>
+      <name>tiff.ResolutionUnit</name>
+      <value type="VipsRefString">inch</value>
+    </property>
+    <property>
+      <name>slide-associated-images</name>
+      <value type="VipsRefString">38555x39232, label, macro, thumbnail</value>
+    </property>
+    <property>
+      <name>vips-sequential</name>
+      <value type="gint">1</value>
+    </property>
+  </properties>
+</image>
